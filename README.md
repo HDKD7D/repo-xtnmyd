@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: dklasso@aol.com, kristenz@gmail.com
-At: 2026-09-16 14:35:25
-Id: TsOsnG2U
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: mansfield91@aol.com, dbdukeboy@sbcglobal.net
+At: 2026-09-16 14:36:04
+Id: APbjoBRA
